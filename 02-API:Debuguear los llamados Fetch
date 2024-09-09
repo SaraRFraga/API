@@ -1,4 +1,3 @@
-
 // crea un nuevo registro
 public function crear() {
 
